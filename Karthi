@@ -1,3 +1,19 @@
+#--------------------------------------------------------------------------------
+# File-Name:       Codes for Accuracy Measure         
+# Date:            2014/9                                
+# Author:          KARTHI.V-Machine Learning Practioner
+# Email:           karthiv46@gmail.com
+# Github:          https://github.com/vkarthi46
+
+# All source code is copyright (c) 2014, under the Simplified BSD License.  
+# For more information on FreeBSD see: http://www.opensource.org/licenses/bsd-license.php
+
+# All images and materials produced by this code are licensed under the Creative Commons 
+# Attribution-Share Alike 3.0 United States License: http://creativecommons.org/licenses/by-sa/3.0/us/
+
+# All rights reserved.
+
+
 
 # ================function to find frequency from time series data =========================
 
